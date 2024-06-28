@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on<b> projects and enhance my skills </b>
 - 📫 How to reach me: <b>anjana27052004@gmail.com </b>
 
+<img src='https://github.com/AnjanaS2004/AnjanaS2004/blob/main/image.jpeg' alt='image' height='60'>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnjanaS2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjana56/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_._.anjana._._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Anjana66)  
 
