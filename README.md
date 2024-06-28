@@ -1,6 +1,6 @@
 <h1><i>Hi there 👋, I am Anjana S</i></h1>
 <i>A passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.</i>
-<img src='https://C:\Users\anjan\Downloads\WhatsApp Image 2024-06-28 at 12.03.28 PM.jpeg' alt='github'>
+<img src='' alt='github'>
 
 - 🌱 I’m currently learning <b>Javascript, Data structure , Front-end development</b>
 - 👯 I’m looking to collaborate on<b> projects and enhance my skills </b>
