@@ -1,5 +1,5 @@
 <h1><i>### Hi there 👋, I am Anjana S</i></h1>
-<i>I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.</i>
+<i>A passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.</i>
 
 
 - 🌱 I’m currently learning Javascript,Datastructures,Front-end development 
