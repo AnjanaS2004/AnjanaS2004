@@ -1,9 +1,7 @@
 ### Hi there 👋, I am Anjana S
-I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.
+<i>I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.</i>
 
 
-
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript,Datastructures,Front-end development 
 - 👯 I’m looking to collaborate on projects and enhance my skills 
 - 📫 How to reach me: anjana27052004@gmail.com 
