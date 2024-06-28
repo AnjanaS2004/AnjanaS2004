@@ -3,10 +3,9 @@
 
 
 
-Skills:  JS / HTML / CSS
 
-- 🌱 I’m currently learning to enhance my skills on frontend development 
-- 💬 Ask me about HTML, CSS,C,JAVA 
+- 🌱 I’m currently learning Data Structure,JAVASCRIPT,Web development
+-  
 - 📫 How to reach me: anjana27052004@gmail.com 
 
 
